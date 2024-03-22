@@ -17,6 +17,22 @@ summary:
 
 # Domain Driven Design DDD
 
+## Best practise - An introduction to DDD
+[Från microsoft](https://learn.microsoft.com/en-us/archive/msdn-magazine/2009/february/best-practice-an-introduction-to-domain-driven-design)
+
+### The Platonic Model
+### Talk the Talk
+### Context
+### Know Your Value Proposition
+### A System of Single Responsibilities
+### Entities Have an Identity and a Life
+### Value Objects Describe Things
+### Aggregate Roots Combine Entities
+### Domain Services Model Primary Operations
+### Repositories Save and Dispense Aggregate Roots
+### The Thing with Databases
+### Getting Started with DDD
+
 ## Solid
 SOLID is an acronym for five design principles — Single Responsibility Principle (SRP), Open-Closed Principle (OCP), Liskov Substitution Principle (LSP), Interface Segregation Principle (ISP), and Dependency Inversion Principle (DIP).
 These principles guide developers to create maintainable, flexible, and robust software systems. In this article, we will explore each of these principles in-depth, accompanied by practical code examples in C#.
