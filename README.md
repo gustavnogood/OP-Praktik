@@ -21,6 +21,26 @@ Summary:
 * A security flaw in the form of broken buisness integrity can live in production for a long time, bleeding money from your enterprise.
 * Consius, explicit design results in a much more robust solution
 
+## Chapter 3 
+Summary:
+* Building domain models is a good way to promote deep learning about the domain.
+* A domain model should be strict and unambigous representation of the domain that captures only the most important aspects.
+* When creating a domain model, you make a choice among many possible models.
+* The domain model forms a language fo communictaing about the system.
+* Entities, value objects and aggregates are the basic build blocks for your domain model.
+* Entities hav an identity that's consistent during their life cycle and contain other entities or value objects.
+* The uniqueness of entities always has a scope, and that scope depends on your model.
+* A value object doesn't have an identity but rather is defined by its value.
+* A value object must always be immutable and should form a conceptiual whole.
+* An aggregate is a conceptual boundary that groups together other model objects and is reponsible for upholding invariants among those objects.
+* An aggregate always has an  aggregate root and, in code, that root is typaclly the same as the aggregate.
+* The aggregate root has global identity bacause this is the only part of the aggregate that parts of the model can hold a reference to.
+* The ubiquitous language is spoken by everyone on the team, including domain experts, to ensure a common understanding.
+* The domin model is bound by the semantics of the ubiquitous language.
+* The bounded context is the context in witch the semanics of the model hold. As soon as the semantics change, the model breaks and the boundry of the context is found.
+* Using Conway's Law is a good starting point when trying to find the boundry of a context.
+* Data crossing a semantic boundry is of special intrest from a security perspective bacuase this is where the meaning of a concept could implicitly change.
+
 # Domain Driven Design DDD
 
 ## Best practise - An introduction to DDD
