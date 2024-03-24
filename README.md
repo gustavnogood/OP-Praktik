@@ -15,11 +15,11 @@ summary:
 * Choosing the XML parser configuration is difficult without understanding the underlying parser implementation.
 * Secure by design promotes security in-depth by adding several layers of security.
 
-  ## Chapter 2
-  Summary:
-  * incomplete, missing or shallow modelling leads to a design with security flaws.
-  * A security flaw in the form of borken buisness integrity can live in production for a long time, bleeding money from your enterprise.
-  * Consius, explicit design results in a much more robust solution
+## Chapter 2
+Summary:
+* incomplete, missing or shallow modelling leads to a design with security flaws.
+* A security flaw in the form of borken buisness integrity can live in production for a long time, bleeding money from your enterprise.
+* Consius, explicit design results in a much more robust solution
 
 # Domain Driven Design DDD
 
