@@ -83,10 +83,18 @@ The DIP states that high-level modules should not depend on low-level modules; b
 The SOLID principles provide valuable guidelines for designing maintainable and extensible software systems. By applying these principles, developers can create code that is easier to understand, test, and maintain.
 
 # Books to read
+## Architecture
+Clean architecture by Robert c Martin
 
 ## DDD
 Easy: 
-*Domain-Driven Design quickly
+* Domain-Driven Design quickly
 * Patterns, Principles and Practices of Domain-Driven Design by Wrox
 Deeper:
 *Domain-driven Design: Tackling Compleqity by Addison-Wesley
+
+# Skills to develop
+Microtjänster
+Hur man strukturerar ett projekt/microtjänst/Web-API
+
+
