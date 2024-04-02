@@ -87,14 +87,15 @@ The SOLID principles provide valuable guidelines for designing maintainable and 
 Clean architecture by Robert c Martin
 
 ## DDD
-Easy: 
+### Easy: 
 * Domain-Driven Design quickly
 * Patterns, Principles and Practices of Domain-Driven Design by Wrox
-Deeper:
-*Domain-driven Design: Tackling Compleqity by Addison-Wesley
+
+### Deeper:
+* Domain-driven Design: Tackling Compleqity by Addison-Wesley
 
 # Skills to develop
-Microtjänster
-Hur man strukturerar ett projekt/microtjänst/Web-API
+* Microtjänster
+* Hur man strukturerar ett projekt/microtjänst/Web-API
 
 
